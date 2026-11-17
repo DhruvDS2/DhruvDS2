@@ -31,3 +31,9 @@ Hi! My name is Dhruv Sharma, and I am a Computer Science student at UT Dallas an
 ### Currently Working On:
 
 I am currently building [Kindling](https://github.com/DhruvDS2/kindling), a signal engine that tells sales which accounts are ready to buy and which are about to churn, and [PhoneGym](https://github.com/DhruvDS2/phonegym), a simulated phone environment for evaluating AI agents. I'm also doing ML research at UT Dallas on in-context memory for LLMs: making context smaller and smarter by summarizing chat history and condensing knowledge bases. Past builds include [Faxtract](https://github.com/DhruvDS2/faxtract), an agentic pipeline that turns faxed medical referrals into validated imaging orders.
+
+#
+### 🏆 Hackathons
+
+- **[ArgusLabs](https://devpost.com/software/asdf-k20xya)** (HackUTD 2026): rewrites legacy COBOL into Java one piece at a time, runs old and new side by side, and asks a human only when they disagree. Built with NVIDIA Nemotron, SpacetimeDB, and React.
+- **[FindingNemo](https://devpost.com/software/codenamebandage)** (HackUTD 2025): routes queries to small fine-tuned specialist models and trains new ones automatically when it spots a recurring task. Built with Nemotron, FAISS, and LoRA.
