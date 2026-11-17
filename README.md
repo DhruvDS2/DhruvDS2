@@ -18,42 +18,22 @@ Hi! My name is Dhruv Sharma, and I am a Computer Science student at UT Dallas an
 <img alt="TypeScript" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img alt="JavaScript" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img alt="C++" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img alt="C" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img alt="Bash" width="30px" hspace="3" src="https://skillicons.dev/icons?i=bash" />
-<img alt="HTML" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alt="CSS" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img alt="React" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img alt="Next.js" width="30px" hspace="3" src="https://skillicons.dev/icons?i=nextjs" />
-<img alt="Vite" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />
 <img alt="FastAPI" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-<img alt="Pydantic" width="30px" hspace="3" src="https://cdn.simpleicons.org/pydantic/E92063" />
 <img alt="PostgreSQL" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img alt="SQLite" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img alt="DuckDB" width="30px" hspace="3" src="https://cdn.simpleicons.org/duckdb/FFF000" />
 <img alt="NumPy" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-<img alt="Matplotlib" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img alt="scikit-learn" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-<img alt="Hugging Face" width="30px" hspace="3" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
 <img alt="Anthropic Claude" width="30px" hspace="3" src="https://cdn.simpleicons.org/anthropic/white" />
-<img alt="LangGraph" width="30px" hspace="3" src="https://cdn.simpleicons.org/langgraph/white" />
 <img alt="MCP" width="30px" hspace="3" src="https://cdn.simpleicons.org/modelcontextprotocol/white" />
-<img alt="Streamlit" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
-<img alt="Google Colab" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />
-<img alt="pytest" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
 <img alt="AWS" width="30px" hspace="3" src="https://skillicons.dev/icons?i=aws" />
 <img alt="Docker" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img alt="Linux" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img alt="Ubuntu" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-<img alt="CMake" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
-<img alt="n8n" width="30px" hspace="3" src="https://cdn.simpleicons.org/n8n/EA4B71" />
-<img alt="Slack" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
-<img alt="Jira" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <img alt="Git" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="GitHub" width="30px" hspace="3" src="https://skillicons.dev/icons?i=github" />
 </p>
 
 
-**Also:** RAG, pgvector, LoRA fine-tuning, Stable Diffusion / Flux, ControlNet, FAISS, AWS Textract, Tesseract OCR, HL7 v2, X12 EDI, Claude Code, Codex, Cursor
+**Also:** RAG, pgvector, LoRA fine-tuning, LangGraph, Claude Code, Cursor
 
 #
 ### Currently Working On:
