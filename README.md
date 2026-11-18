@@ -1,41 +1,54 @@
-# 🤖 Dhruv Sharma
+<table>
+<tr>
+<td><b>👋 Hey! Nice to meet you, I'm Dhruv</b></td>
+<td align="right">
+<a href="https://www.linkedin.com/in/dhruv-sharma182"><img src="https://skillicons.dev/icons?i=linkedin" width="28" alt="LinkedIn" /></a>
+<a href="https://x.com/DhruvSharma182"><img src="https://skillicons.dev/icons?i=twitter" width="28" alt="X" /></a>
+<a href="mailto:tosharmadhruv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="28" alt="Email" /></a>
+</td>
+</tr>
+<tr><td colspan="2">
+CS @ UT Dallas. I build AI agents, eval environments, and the systems around them. Prev @ Koyal AI (YC F25), Resolution Industry Trust, and UT Dallas Research.
+</td></tr>
+<tr><td colspan="2">
+<b>languages</b><br />
+<img src="https://img.shields.io/badge/Python-21262d?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-21262d?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-21262d?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%2B%2B-21262d?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
+</td></tr>
+<tr><td colspan="2">
+<b>frontend</b><br />
+<img src="https://img.shields.io/badge/React-21262d?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-21262d?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</td></tr>
+<tr><td colspan="2">
+<b>agents / ai</b><br />
+<img src="https://img.shields.io/badge/Claude%20API-21262d?style=flat&logo=anthropic&logoColor=D97757" alt="Claude API" />
+<img src="https://img.shields.io/badge/MCP-21262d?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/Claude%20Code-21262d?style=flat&logo=claude&logoColor=D97757" alt="Claude Code" />
+<img src="https://img.shields.io/badge/LangGraph-21262d?style=flat&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Cursor-21262d?style=flat&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/RAG-21262d?style=flat" alt="RAG" />
+<img src="https://img.shields.io/badge/LoRA-21262d?style=flat" alt="LoRA" />
+</td></tr>
+<tr><td colspan="2">
+<b>ml / data</b><br />
+<img src="https://img.shields.io/badge/scikit--learn-21262d?style=flat&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/NumPy-21262d?style=flat&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+<img src="https://img.shields.io/badge/pgvector-21262d?style=flat" alt="pgvector" />
+</td></tr>
+<tr><td colspan="2">
+<b>infra</b><br />
+<img src="https://img.shields.io/badge/FastAPI-21262d?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Postgres-21262d?style=flat&logo=postgresql&logoColor=4169E1" alt="Postgres" />
+<img src="https://img.shields.io/badge/Docker-21262d?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-21262d?style=flat" alt="AWS" />
+<img src="https://img.shields.io/badge/Git-21262d?style=flat&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-21262d?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</td></tr>
+</table>
 
-**`Developer, AI Agent Builder, and Researcher`**
-
-Hi! My name is Dhruv Sharma, and I am a Computer Science student at UT Dallas and a Software and AI/ML Engineer focused on agents, evals, and the systems around them. Building agent harnesses, eval environments, and document pipelines with Claude, MCP, and FastAPI. Prev @ Koyal AI (YC F25), Resolution Industry Trust, UT Dallas Research.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhruv-sharma182">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:tosharmadhruv@gmail.com">Email</a>
-</p>
-
----
-
-### 🧰 Languages and Tools
-
-<p>
-<img alt="Python" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img alt="TypeScript" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img alt="JavaScript" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt="C++" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img alt="React" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img alt="Next.js" width="30px" hspace="3" src="https://skillicons.dev/icons?i=nextjs" />
-<img alt="FastAPI" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-<img alt="PostgreSQL" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img alt="NumPy" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-<img alt="scikit-learn" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-<img alt="Anthropic Claude" width="30px" hspace="3" src="https://cdn.simpleicons.org/anthropic/white" />
-<img alt="MCP" width="30px" hspace="3" src="https://cdn.simpleicons.org/modelcontextprotocol/white" />
-<img alt="AWS" width="30px" hspace="3" src="https://skillicons.dev/icons?i=aws" />
-<img alt="Docker" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img alt="Git" width="30px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img alt="GitHub" width="30px" hspace="3" src="https://skillicons.dev/icons?i=github" />
-</p>
-
-
-**Also:** RAG, pgvector, LoRA fine-tuning, LangGraph, Claude Code, Cursor
-
-#
 ### Currently Working On:
 
 I am currently building [Kindling](https://github.com/DhruvDS2/kindling), a signal engine that tells sales which accounts are ready to buy and which are about to churn, and [PhoneGym](https://github.com/DhruvDS2/phonegym), a simulated phone environment for evaluating AI agents. I'm also doing ML research at UT Dallas on in-context memory for LLMs: making context smaller and smarter by summarizing chat history and condensing knowledge bases. Past builds include [Faxtract](https://github.com/DhruvDS2/faxtract), an agentic pipeline that turns faxed medical referrals into validated imaging orders.
